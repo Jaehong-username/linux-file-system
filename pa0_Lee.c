@@ -1,7 +1,5 @@
 /****************************************************************************************************************************
 * Programmer: Jaehong Lee
-* Class: CPTs 360, Fall 2024
-* Programming Assignment: PA0
 * Date: September 12th, 2024
 * Description: This assignment mimics the directory/file system in our computer using linux commands such as mkdir, rmdir,
 			   ls, cd, pwd, creat, rm, reload, save, quit. Data will be represented in a Left-child right-sibling binary tree.
